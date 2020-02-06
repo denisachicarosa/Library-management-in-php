@@ -44,38 +44,38 @@ This page offers information about:
  * previous and current loans
  * wish-list 
  
- ![User Profile](./photos/userprofile.png)
+ ![User Profile](./photos/userprofile.PNG)
  
  ### Rent book
  This page offers the posibility to select one of the available books and complete a loan file.
  After all the details are completed, the users receives a loan file in PDF format.
   
- ![Rent page](./photos/.png) ![Loan Details](./photos/loan.png) ![Loan file in PDF](./photos/loanfile.png)
+ ![Rent page](./photos/rent.PNG) ![Loan Details](./photos/loan.png) ![Loan file in PDF](./photos/loanfile.png)
  
  ### Return book
  The user has to insert de index number of the loan file. After this step, the application send the information to the admin group and admins can check if the book has been returned.
  
- ![Return page](./photos/return.png)
+ ![Return page](./photos/return.PNG)
  
  ### Contact page
  The user can file a contact form. After hitting the submit button, an email will be sent to the admin address.
- ![Contact page](./photos/contact.png)
+ ![Contact page](./photos/contact.PNG)
  
  ### Admin page
  This page is the first page for an admin account. The user with admin role can check if the return applications are verified.
  For each return application the admin has to set the tag as: returned or still rented.
  
-  ![Admin page](./photos/admin.png)
+  ![Admin page](./photos/admin.PNG)
   
   ### Manage books
   This is a page available only for users with admin role. Here they can add or remove books.
   
-   ![Manage books page](./photos/managebook.png)
+   ![Manage books page](./photos/managebookPNG.PNG)
    
   ### Manage users
   This is a page available only for users with admin role. Here they can edit users details and roles.
   
-   ![Manage users page](./photos/manageusers.png)
+   ![Manage users page](./photos/manageusers.PNG)
    
    ### Statistic page
    This page shows the number of loads and different sessions for each page available on the application.
