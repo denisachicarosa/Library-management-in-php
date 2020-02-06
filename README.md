@@ -30,7 +30,7 @@ This page has multiple input fields in order to build an user profile.
 Each field has type restrictions as "alphas only" for first and last name fields, ten digits for phone number, etc.
 After the form is completed and the submit button is pressed, a verification code is sent on the inserted email.
 
-![Sign Up](./photos/signup.PNG) ![Verification code](./photos/verificationcode.PNG)
+![Sign Up](./photos/signup.PNG) ![Verification code](./photos/verificationcode.png)
 
 
 ### Sign In page
