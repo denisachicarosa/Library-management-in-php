@@ -43,8 +43,10 @@ This page offers information about:
  * all books in the library (available or not)
  * previous and current loans
  * wish-list 
+ * search information about a specific book. ( this details are imported from wikipedia in real time)
  
- ![User Profile](./photos/userprofile.PNG)
+ 
+ ![User Profile](./photos/userprofile.PNG) ![Book info](./photos/bookinfo.png)
  
  ### Rent book
  This page offers the posibility to select one of the available books and complete a loan file.
